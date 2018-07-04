@@ -1,0 +1,70 @@
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\bin\Debug\yenimayin.exe.config
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\bin\Debug\yenimayin.exe
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\bin\Debug\yenimayin.pdb
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.csprojResolveAssemblyReference.cache
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.Form1.resources
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.Properties.Resources.resources
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.csproj.GenerateResource.Cache
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.exe
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.pdb
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.Form2.resources
+c:\users\exper pc\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.Form3.resources
+C:\Users\EXPER PC\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.Form4.resources
+C:\Users\EXPER PC\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\Interop.WMPLib.dll
+C:\Users\EXPER PC\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EXPER PC\documents\visual studio 2013\Projects\yenimayin\yenimayin\obj\Debug\yenimayin.csproj.ResolveComReference.cache
+C:\Users\EXPER PC\documents\visual studio 2013\Projects\yenimayin\yenimayin\bin\Debug\Interop.WMPLib.dll
+C:\Users\EXPER PC\documents\visual studio 2013\Projects\yenimayin\yenimayin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\bin\Debug\yenimayin.exe.config
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\Interop.WMPLib.dll
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.ResolveComReference.cache
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.exe
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.pdb
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\bin\Debug\yenimayin.exe
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\bin\Debug\yenimayin.pdb
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\bin\Debug\Interop.WMPLib.dll
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.csprojResolveAssemblyReference.cache
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.Form1.resources
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.Form2.resources
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.Form3.resources
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.Form4.resources
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.Properties.Resources.resources
+C:\Users\EXPER PC\Documents\Visual Studio 2013\Projects\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.GenerateResource.Cache
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\bin\Debug\yenimayin.exe.config
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\bin\Debug\yenimayin.exe
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\bin\Debug\yenimayin.pdb
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.csprojAssemblyReference.cache
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.ResolveComReference.cache
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.Form1.resources
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.Form2.resources
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.Form3.resources
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.Form4.resources
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.Properties.Resources.resources
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.GenerateResource.cache
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.CoreCompileInputs.cache
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.exe
+C:\Users\Mons\Desktop\tura\turanunluer_mayin_tarlasi\turanunluer\yenimayin\obj\Debug\yenimayin.pdb
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\bin\Debug\yenimayin.exe.config
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\bin\Debug\yenimayin.exe
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\bin\Debug\yenimayin.pdb
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.csprojAssemblyReference.cache
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.ResolveComReference.cache
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.Form1.resources
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.Form2.resources
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.Form3.resources
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.Form4.resources
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.Properties.Resources.resources
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.GenerateResource.cache
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.csproj.CoreCompileInputs.cache
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.exe
+C:\Users\Mons\Desktop\tura\turanunluer\yenimayin\obj\Debug\yenimayin.pdb
